@@ -32,13 +32,15 @@ h2 {
 }
 
 a {
-  color: #2e86de;
+  color: #5e60ce;
   text-decoration: none;
 }
 
 a:hover {
+  color: #4b50b4;
   text-decoration: underline;
 }
+
 
 p {
   font-size: 16px;
@@ -131,7 +133,7 @@ input, textarea {
 }
 
 button {
-  background-color: #2e86de;
+  background-color: #5e60ce;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -141,5 +143,6 @@ button {
 }
 
 button:hover {
-  background-color: #1c6dd0;
+  background-color: #4b50b4; /* Slightly darker violet */
 }
+
