@@ -2,13 +2,21 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f4f7fa;
   color: #333;
-  max-width: 800px;
-  margin: 40px auto;
-  padding: 30px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin: 0;
+  padding: 20px;
+  box-sizing: border-box;
   background: #fff;
-  border-radius: 8px;
 }
+
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: #fff;
+}
+
 
 header {
   background-color: #2e86de;
