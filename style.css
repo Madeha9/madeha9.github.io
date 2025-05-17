@@ -41,4 +41,43 @@ p {
   font-size: 16px;
   margin: 12px 0;
 }
+.profile-pic {
+  display: block;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.contact-icons {
+  font-size: 20px;
+  margin-right: 8px;
+}
+
+.skills {
+  margin-top: 40px;
+}
+
+.skills h2 {
+  text-align: center;
+  color: #2e86de;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+.skills li {
+  display: inline-block;
+  background: #f0f4f8;
+  color: #333;
+  margin: 5px;
+  padding: 8px 15px;
+  border-radius: 20px;
+  font-weight: bold;
+}
 
