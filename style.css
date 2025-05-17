@@ -1,20 +1,35 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f7fa;
   color: #333;
   max-width: 800px;
-  margin: 50px auto;
+  margin: 40px auto;
+  padding: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  border-radius: 8px;
+}
+
+header {
+  background-color: #2e86de;
+  color: white;
   padding: 20px;
-  line-height: 1.6;
+  text-align: center;
+  border-radius: 8px 8px 0 0;
 }
 
 h1 {
-  color: #2c3e50;
-  text-align: center;
+  margin: 0;
+  font-size: 32px;
+}
+
+h2 {
+  color: #2e86de;
+  margin-top: 30px;
 }
 
 a {
-  color: #0077cc;
+  color: #2e86de;
   text-decoration: none;
 }
 
@@ -23,6 +38,7 @@ a:hover {
 }
 
 p {
-  margin: 12px 0;
   font-size: 16px;
+  margin: 12px 0;
 }
+
