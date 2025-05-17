@@ -13,12 +13,13 @@ main {
 }
 
 header {
-  background-color: #e8f0fe;
+  background-color: #5e60ce;
   color: white;
   padding: 20px;
   text-align: center;
   border-radius: 8px 8px 0 0;
 }
+
 
 h1 {
   margin: 0;
