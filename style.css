@@ -80,4 +80,25 @@ p {
   border-radius: 20px;
   font-weight: bold;
 }
+.projects {
+  margin-top: 50px;
+}
+
+.projects h2 {
+  text-align: center;
+  color: #2e86de;
+}
+
+.projects ul {
+  list-style: none;
+  padding: 0;
+}
+
+.projects li {
+  margin: 15px 0;
+  padding: 15px;
+  background: #f0f4f8;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
 
